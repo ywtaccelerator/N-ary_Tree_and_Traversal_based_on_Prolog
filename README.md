@@ -11,7 +11,7 @@ A realization of n-ary tree and its traversal based on Prolog, came out by mysel
 (2) Calculate and store the accumulated distance for each node;  
 (3) Save the solution in XXXX.txt in the same directory of this prolog program.  
 
-The structure of my n-ary tree likes following (Node_Name, [Sub_Node_Name_1, Sub_Node_Name_2, ...]):
+The structure of my n-ary tree likes following (  node(Node_Name, [Sub_Node_Name_1, Sub_Node_Name_2, ...])  ):
 
 node('GlenCairn', ['Corkstown']).  
 node('Entrance', []).  
