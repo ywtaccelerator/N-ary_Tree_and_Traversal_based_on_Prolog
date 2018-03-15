@@ -1,6 +1,6 @@
 # N-ary_Tree_and_Traversal_based_on_Prolog
 
-A realization of n-ary tree and its traversal based on Prolog, came out by myself. The completion of finding a reasonable route from the most Western to the East based on GPS information, the facts in the database as you can see at the beginning of the code is already sorted from the most Western to the most Eastern, they are names and GPS coordinates of the wading pools in Ottawa. To find a "reasonable" solution of the route, 
+A realization of an n-ary tree and its traversal based on Prolog, which is invented by myself. It is the completion of finding a reasonable route from the most Western to the East based on GPS information, the facts in the database as you can see at the beginning of the code are already sorted from the most Western to the most Eastern, they are the names and GPS coordinates of wading pools in Ottawa. To find a "reasonable" solution of the route, 
 
 1. Build a tree:  
 (1) Store the most Western pool as the root node;  
