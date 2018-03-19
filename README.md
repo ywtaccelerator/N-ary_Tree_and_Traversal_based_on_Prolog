@@ -79,4 +79,4 @@ node('AldaBurt', ['Bearbrook'])
 (You can check the above with the query of "listing(node)." after you run the program)  
 
 
-Warning: This program and the structure of n-ary tree is just for your idea. Be careful when copying or imitating this program, the professor may catch you! Because some implements may seems pretty neat and easy to recognize.  
+Warning: This program and the structure of n-ary tree is just for your idea. Be careful when copying or imitating this program, the professor may catch you! Because some implements may seem pretty neat and easy to recognize.  
